@@ -1,0 +1,33 @@
+p {
+	color: orange;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: blue;
+}
+h3 {
+    color: red;
+}
+h4 {
+    color: rgb(154, 333, 228);
+}
+h5 {
+    color: #CE0071;
+}
+
+p {
+	text-align: center;
+}
+th {
+	text-align: left;
+}
+
+table {
+	width: 400px;
+}
+p {
+	text-align: justify;
+	width: 300px;
+}

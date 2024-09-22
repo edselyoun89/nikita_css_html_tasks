@@ -1,0 +1,31 @@
+table {
+	width: 500px;
+    height: 300px;
+}
+td {
+	font-weight: normal;
+    text-align: center;
+}
+th {
+	font-weight: lighter;
+}
+p {
+	font-style: italic;
+}
+p {
+	font-size: 30px;
+}
+h1 {
+	font-size: 50px;
+    text-align: center;
+}
+h2 {
+    font-size: 40px;
+    font-weight: normal
+}
+p {
+	font-family: Arial;
+}
+p {
+	font-family: "Comic Sans MS";
+}
