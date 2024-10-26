@@ -1,0 +1,1443 @@
+/*Задание 203#1*/
+#elem0_203_1 {
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_203_1 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 204#1*/
+#elem0_204_1 {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_204_1 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 205#1*/
+#elem0_205_1 {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_205_1 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 206#1*/
+#elem0_206_1 {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_206_1 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 208#1*/
+#elem0_208_1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_208_1 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 208#2*/
+#elem0_208_2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_208_2 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 208#3*/
+#elem0_208_3 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_208_3 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 208#4*/
+#elem0_208_4 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_208_4 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 208#5*/
+#elem0_208_5 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_208_5 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 209#1*/
+#elem0_209_1 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_209_1 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 209#2*/
+#elem0_209_2 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_209_2 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 209#3*/
+#elem0_209_3 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_209_3 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 209#4*/
+#elem0_209_4 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_209_4 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 209#5*/
+#elem0_209_5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_209_5 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 209#6*/
+#elem0_209_6 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_209_6 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 209#7*/
+#elem0_209_7 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.elem1_209_7 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 210#1*/
+#elem0_210_1	{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_210_1 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 210#2*/
+#elem0_210_2	{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_210_2 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 210#3*/
+#elem0_210_3	{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_210_3 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 210#4*/
+#elem0_210_4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_210_4 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 210#5*/
+#elem0_210_5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_210_5 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 210#6*/
+#elem0_210_6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_210_6 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 213#1*/
+#elem0_213_1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_213_1 {
+    width: 120px;
+    border: 1px solid green;
+}
+
+/*Задание 213#2*/
+#elem0_213_2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_213_2 {
+    height: 40px;
+    border: 1px solid green;
+}
+
+/*Задание 213#3*/
+#elem0_213_3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_213_3 {
+    height: 40px;
+    border: 1px solid green;
+}
+
+/*Задание 214#1*/
+#elem0_214_1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_214_1 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 214#2*/
+#elem0_214_2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_214_2 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 214#3*/
+#elem0_214_3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_214_3 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 214#4*/
+#elem0_214_4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_214_4 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 214#5*/
+#elem0_214_5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_214_5 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 214#6*/
+#elem0_214_6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_214_6 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 214#7*/
+#elem0_214_7 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_214_7 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 214#8*/
+#elem0_214_8 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_214_8 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 214#9*/
+#elem0_214_9 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_214_9 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 215#1*/
+#elem0_215_1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_215_1 {
+    width: 100px;
+    height: 60px;
+    border: 1px solid green;
+}
+#elem2_215_1 {
+    align-self: flex-end;
+    width: 100px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 215#2*/
+#elem0_215_2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_215_2 {
+    width: 100px;
+    border: 1px solid green;
+}
+#elem2_215_2 {
+    align-self: center;
+    border: 1px solid green;
+    width: 100px;
+}
+
+/*Задание 215#3*/
+#elem0_215_3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    border: 1px solid red;
+}
+.elem1_215_3 {
+    width: 100px;
+    height: 60px;
+    border: 1px solid green;
+}
+#elem2_215_3 {
+    align-self: center;
+    width: 100px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+/*Задание 216#1*/
+#elem0_216_1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.elem1_216_1 {
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+}
+#elem2_216_1 {
+    width: 50px;
+    height: 50px;
+    order: -1;
+    border: 1px solid red;
+}
+
+/*Задание 220#1*/
+#elem0_220_1 {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 400px;
+}
+
+#elem0_220_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
+
+/*Задание 220#2*/
+#elem0_220_2 {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 400px;
+}
+
+#elem0_220_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
+
+/*Задание 220#3*/
+#elem0_220_3 {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 450px;
+}
+#elem0_220_3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
+
+/*Задание 220#4*/
+#elem0_220_4 {
+    display: grid;
+    grid-template-columns: 100px 150px 200px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 450px;
+}
+
+#elem0_220_4 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
+
+/*Задание 221#1*/
+#elem0_221_1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+
+#elem0_221_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/*Задание 221#2*/
+#elem0_221_2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+
+#elem0_221_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/*Задание 221#3*/
+#elem0_221_3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+
+#elem0_221_3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/*Задание 222#1*/
+#elem0_222_1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_222_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 222#2*/
+#elem0_222_2 {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 2.5fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_222_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 223#1*/
+#elem0_223_1 {
+    display: grid;
+    grid-template-columns: 100px 1fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_223_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 223#2*/
+#elem0_223_2 {
+    display: grid;
+    grid-template-columns: 100px 1fr 1.5fr 100px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_223_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 224#1*/
+#elem0_224_1 {
+    display: grid;
+    grid-template-columns: 20% 1fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_224_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 224#2*/
+#elem0_224_2 {
+ display: grid;
+ grid-template-columns: 100px 20% 1fr 2fr 4fr;
+ border: 2px solid #696989;
+ padding: 10px;
+ width: 800px;
+}
+#elem0_224_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 225#1*/
+#elem0_225_1 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 2px solid #696989;
+    padding: 10px;
+}
+#elem0_225_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 225#2*/
+#elem0_225_2 {
+    display: grid;
+    grid-template-columns: repeat(4, 100px) repeat(3, 2fr);
+    border: 2px solid #696989;
+    padding: 10px;
+}
+#elem0_225_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 225#3*/
+#elem0_225_3 {
+    display: grid;
+    grid-template-columns: repeat(2, 100px) repeat(3, 200px) 1fr repeat(2, 10%);
+    border: 2px solid #696989;
+    padding: 10px;
+}
+#elem0_225_3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 226#1*/
+#elem0_226_1 {
+    display: grid;
+    grid-template-columns: 200px auto;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_226_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 226#2*/
+#elem0_226_2 {
+    display: grid;
+    grid-template-columns: 100px 150px auto;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_226_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 227#2*/
+#elem0_227_1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 100%;
+    max-width: 800px;
+}
+#elem0_227_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
+
+/*Задание 228#1*/
+#elem0_228_1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    border: 2px solid #696989;
+    padding: 10px;
+}
+#elem0_228_1 > div {
+    padding: 20px;
+    border: 1px solid #696989;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+/*Задание 229#2*/
+#elem0_229_1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 450px;
+}
+#elem0_229_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 229#2*/
+#elem0_229_2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 750px;
+}
+#elem0_229_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 230#1*/
+#elem0_230_1 {
+    display: grid;
+    grid-template-rows: 100px 150px 200px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 400px;
+}
+#elem0_230_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 230#2*/
+#elem0_230_2 {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+}
+#elem0_230_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 231#1*/
+#elem0_231_1 {
+    display: grid;
+    grid-template: 1fr 2fr/ 0.5fr 1fr 1fr 2fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+}
+#elem0_231_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 231#2*/
+#elem0_231_2 {
+    display: grid;
+    grid-template: 1fr 2fr/ 2fr 1fr 1fr 2fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+}
+#elem0_231_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 231#3*/
+#elem0_231_3 {
+    display: grid;
+    grid-template: 1fr 1fr 2fr 4fr/ 0.5fr 1.5fr 3fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+    height: 300px;
+}
+#elem0_231_3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 231#4*/
+#elem0_231_4 {
+    display: grid;
+    grid-template: 2fr 1fr 1fr / 2fr 1fr 2fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+    height: 300px;
+}
+#elem0_231_4 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 231#5*/
+#elem0_231_5 {
+    display: grid;
+    grid-template: 2fr 1fr / repeat(2, 0.5fr) 1fr repeat(2, 2fr);
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+    height: 300px;
+}
+#elem0_231_5 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 232#1*/
+#elem0_232_1 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 300px;
+    width: 400px;
+}
+#elem0_232_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_232_1 {
+    grid-row: 1 / 2;
+}
+#elem2_232_1 {
+    grid-row: 2 / 3;
+}
+#elem3_232_1 {
+    grid-row: 1 / 2;
+}
+#elem4_232_1 {
+    grid-row: 2 / 4;
+}
+#elem5_232_1 {
+    grid-row: 3 / 4;
+}
+
+/*Задание 232#2*/
+#elem0_232_2 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 300px;
+    width: 400px;
+}
+#elem0_232_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_232_2 {
+    grid-row: 1 / 5;
+}
+#elem2_232_2 {
+    grid-row: 1 / 2;
+}
+#elem3_232_2 {
+    grid-row: 2 / 3;
+}
+#elem4_232_2 {
+    grid-row: 3 / 4;
+}
+#elem5_232_2 {
+    grid-row: 4 / 5;
+}
+
+/*Задание 232#3*/
+#elem0_232_3 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 300px;
+    width: 400px;
+}
+#elem0_232_3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_232_3 {
+    grid-row: 1 / 2;
+}
+#elem2_232_3 {
+    grid-row: 1 / 3;
+}
+#elem3_232_3 {
+    grid-row: 2 / 3;
+}
+#elem4_232_3 {
+    grid-row: 3 / 5;
+}
+#elem5_232_3 {
+    grid-row: 3 / 5;
+}
+
+/*Задание 233#1*/
+#elem0_233_1 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 400px;
+    height: 300px;
+}
+#elem0_233_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_233_1 {
+    grid-column: 1 / 2;
+}
+#elem2_233_1 {
+    grid-column: 2 / 4;
+}
+#elem3_233_1 {
+    grid-column: 1 / 3;
+}
+#elem4_233_1 {
+    grid-column: 3 / 4;
+}
+
+/*Задание 233#2*/
+#elem0_233_2 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 400px;
+    height: 300px;
+}
+#elem0_233_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_233_2 {
+    grid-column: 1 / 4;
+}
+#elem2_233_2 {
+    grid-column: 1 / 2;
+}
+#elem3_233_2 {
+    grid-column: 2 / 3;
+}
+#elem4_233_2 {
+    grid-column: 3 / 4;
+}
+#elem5_233_2 {
+    grid-column: 1 / 4;
+}
+
+/*Задание 233#3*/
+#elem0_233_3 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 400px;
+    height: 300px;
+}
+#elem0_233_3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_233_3 {
+    grid-column: 1 / 2;
+}
+#elem2_233_3 {
+    grid-column: 2 / 5;
+}
+#elem3_233_3 {
+    grid-column: 5 / 6;
+}
+#elem4_233_3 {
+    grid-column: 1 / 3;
+}
+#elem5_233_3 {
+    grid-column: 3 / 6;
+}
+#elem6_233_3 {
+    grid-column: 1 / 4;
+}
+#elem7_233_3 {
+    grid-column: 4 / 6;
+}
+
+/*Задание 234#1*/
+#elem0_234_1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    height: 300px;
+    width: 400px;
+}
+#elem0_234_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_234_1 {
+    grid-row: 1 / 2;
+    grid-column: 1 / 2;
+}
+#elem2_234_1 {
+    grid-row: 1 / 2;
+    grid-column: 2 / 3;
+}
+#elem3_234_1 {
+    grid-row: 1 / 2;
+    grid-column: 3 / 4;
+}
+#elem4_234_1 {
+    grid-row: 2 / 3;
+    grid-column: 1 / 3;
+}
+#elem5_234_1 {
+    grid-row: 2 / 3;
+    grid-column: 3 / 4;
+}
+#elem6_234_1 {
+    grid-row: 3 / 4;
+    grid-column: 1 / 4;
+}
+
+/*Задание 234#2*/
+#elem0_234_2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    height: 400px;
+    width: 400px;
+}
+#elem0_234_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_234_2 {
+    grid-row: 1 / 3;
+    grid-column: 1 / 3;
+}
+#elem2_234_2 {
+    grid-row: 1 / 2;
+    grid-column: 3 / 4;
+}
+#elem3_234_2 {
+    grid-row: 2 / 3;
+    grid-column: 3 / 4;
+}
+#elem4_234_2 {
+    grid-row: 3 / 4;
+    grid-column: 2 / 4;
+}
+#elem5_234_2 {
+    grid-row: 3 / 4;
+    grid-column: 1 / 2;
+}
+#elem6_234_2 {
+    grid-row: 4 / 6;
+    grid-column: 1 / 4;
+}
+
+/*Задание 235#1*/
+#elem0_235_1 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 400px;
+    height: 300px;
+}
+#elem0_235_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_235_1 {
+    grid-column: 1 / 3;
+}
+#elem2_235_1 {
+    grid-column: 2 / 4;
+}
+#elem3_235_1 {
+    grid-column: 3 / 5;
+}
+
+/*Задание 235#2*/
+#elem0_235_2 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 400px;
+    height: 300px;
+}
+#elem0_235_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_235_2 {
+    grid-column: 1 / 3;
+}
+#elem2_235_2 {
+    grid-column: 2 / 5;
+}
+#elem3_235_2 {
+    grid-column: 1 / 4;
+}
+#elem4_235_2 {
+    grid-column: 3 / 5;
+}
+#elem5_235_2 {
+    grid-column: 1 / 4;
+}
+
+/*Задание 235#3*/
+#elem0_235_3 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 400px;
+    height: 300px;
+}
+#elem0_235_3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_235_3 {
+    grid-column: 1 / 3;
+}
+#elem2_235_3 {
+    grid-column: 3 / 5;
+}
+#elem3_235_3 {
+    grid-column: 2 / 4;
+}
+#elem4_235_3 {
+    grid-column: 1 / 3;
+}
+#elem5_235_3 {
+    grid-column: 2 / 5;
+}
+
+/*Задание 236#1*/
+#elem0_236_1 {
+    display: grid;
+    column-gap: 20%;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 200px;
+}
+
+#elem0_236_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 237#1*/
+#elem0_237_1 {
+    display: grid;
+    row-gap: 25%;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 250px;
+}
+
+#elem0_237_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 238#1*/
+#elem0_238_1 {
+    display: grid;
+    gap: 10px;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 200px;
+}
+
+#elem0_238_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 238#2*/
+#elem0_238_2 {
+    display: grid;
+    gap: 5% 10px;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 200px;
+}
+
+#elem0_238_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 239#1*/
+#elem0_239_1 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+#elem0_239_1 > div {
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 239#2*/
+#elem0_239_2 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 2fr 3fr;
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+#elem0_239_2 > div {
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 239#3*/
+#elem0_239_3 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+#elem0_239_3 > div {
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #696989;
+}

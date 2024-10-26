@@ -1,0 +1,101 @@
+/*Задание 186#1*/
+#elem0_186_1 {
+    width: 400px;
+    text-align: justify;
+}
+#elem1_186_1 {
+    width: 75px;
+    float: left;
+    margin: 5px;
+}
+#elem2_186_1 {
+    width: 75px;
+    float: right;
+    margin: 5px;
+}
+
+/*Задание 186#1*/
+#elem0_191_1 {
+    width: 600px;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: justify;
+}
+#left_191_1  {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+#right_191_1  {
+    float: right;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/*Задание 200#1*/
+#elem0_200_1 {
+    width: 600px;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: justify;
+}
+#elem1_200_1  {
+    float: right;
+    width: 100px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+}
+
+/*Задание 201#1*/
+#elem0_201_1 {
+    width: 800px;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: justify;
+}
+.elem1_201_1 {
+    float: right;
+    width: 130px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 1px solid green;
+}
+
+/*Задание 202#1*/
+#elem0_202_1{
+    padding: 20px;
+    border: 1px solid black;
+}
+.elem1_202_1{
+    float: left;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid green;
+}
+#elem2_202_1 {
+    clear: both;
+}
+
+/*Задание 202#2*/
+#elem0_202_2{
+    padding: 20px;
+    border: 1px solid black;
+}
+.elem1_202_2{
+    float: right;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid green;
+}
+#elem2_202_2 {
+    clear: both;
+}
