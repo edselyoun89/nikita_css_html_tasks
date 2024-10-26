@@ -1,0 +1,68 @@
+
+* {
+    box-sizing: border-box;
+}
+
+#wrapper_244_1 {
+    width: 1200px;
+    margin: 30px auto;
+    border: 1px solid black;
+}
+#header_244_1 {
+    height: 250px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#container_244_1 {
+    display: flex;
+}
+#content_244_1 {
+    width: 860px;
+    height: 900px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#sidebar_244_1 {
+    width: 300px;
+    margin-right: 40px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#footer_244_1 {
+    height: 100px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+
+/*Задание 244№2*/
+#wrapper_244_2 {
+    width: 1200px;
+    margin: 30px auto;
+    border: 1px solid black;
+}
+#header_244_2 {
+    height: 250px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#container_244_2 {
+    display: flex;
+}
+#content_244_2 {
+    width: 860px;
+    height: 900px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#sidebar_244_2 {
+    width: 300px;
+    margin-left: 40px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#footer_244_2 {
+    height: 100px;
+    padding: 20px;
+    border: 1px solid black;
+}

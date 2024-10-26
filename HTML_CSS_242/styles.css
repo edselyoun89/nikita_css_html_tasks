@@ -1,0 +1,75 @@
+/*Задание 242#1*/
+* {
+    box-sizing: border-box;
+}
+body_242_1, p, h1, h2, ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial;
+}
+
+.wrapper {
+    margin-bottom: 30px;
+}
+
+.center {
+    width: 840px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.wrapper h2 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 27px;
+}
+.wrapper p, .wrapper li {
+    margin-bottom: 10px;
+    text-align: justify;
+    font-size: 16px;
+}
+.wrapper li {
+    list-style-position: inside;
+}
+
+#header {
+    background: #008040;
+    color: white;
+}
+#header h1 {
+    font-size: 35px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+#header p {
+    font-size: 21px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#services {
+    background-color: white;
+}
+
+#contacts {
+    background-color: #C60304;
+    color: white;
+}
+#contacts p {
+    text-align: center;
+}
+
+#company {
+    background-color: white;
+}
+
+#footer {
+    padding-top: 100px;
+    background: #FF8040;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
